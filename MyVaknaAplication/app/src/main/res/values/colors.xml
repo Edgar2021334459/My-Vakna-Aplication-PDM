@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="marrom_1">#483436</color>
+    <color name="marrom_2">#6C4F51</color>
+    <color name="marrom_3">#846161</color>
+    <color name="marrom_4">#BF8E91</color>
+
+    <color name="bege_1">#EED4C5</color>
+
+    <color name="branco_1">#FEF1E4</color>
+
+    <color name="laranja_1">#C58155</color>
+    <color name="laranja_2">#D9AB8A</color>
+
+    <color name="branco_k">#FEFEFE</color>
+    <color name="cinza_k">#D8D8D8</color>
+</resources>

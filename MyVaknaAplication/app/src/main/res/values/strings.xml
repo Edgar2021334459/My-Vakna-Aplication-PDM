@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Vakna Aplication</string>
+
+    <string name="cadastro_bv">Cadastro</string>
+    <string name="login_bv">Login</string>
+
+    <string name="cadastrar_cv">Cadastrar</string>
+    <string name="text_login_cv">Realizar login</string>
+
+    <string name="Logar_lv">Logar</string>
+    <string name="text_cadastrar_lv">Realizar cadastro</string>
+
+    <string name="ponto1_cv">.</string>
+    <string name="ponto1_lv">.</string>
+</resources>
