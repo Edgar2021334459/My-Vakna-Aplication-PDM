@@ -12,4 +12,6 @@
 
     <string name="ponto1_cv">.</string>
     <string name="ponto1_lv">.</string>
+    <string name="ponto1_pv">.</string>
+    <string name="ponto2_pv">.</string>
 </resources>

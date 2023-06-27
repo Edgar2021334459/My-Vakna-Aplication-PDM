@@ -13,6 +13,9 @@
         android:theme="@style/Theme.MyVaknaAplication"
         tools:targetApi="31">
         <activity
+            android:name=".PerfilVakna"
+            android:exported="false" />
+        <activity
             android:name=".LoginVakna"
             android:exported="false" />
         <activity
