@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "186860644014",
+    "project_id": "vakna-81909",
+    "storage_bucket": "vakna-81909.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:186860644014:android:d6ef0eee9accd4a07bef3f",
+        "android_client_info": {
+          "package_name": "com.example.myvaknaaplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "186860644014-o07q9uuphncs1bmt6b3j91d1t2u60qhk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwje4VUVWAhuG6MPZYhdcjHoDys_AZuuo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "186860644014-o07q9uuphncs1bmt6b3j91d1t2u60qhk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
